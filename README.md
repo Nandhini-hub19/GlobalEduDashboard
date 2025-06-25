@@ -10,7 +10,7 @@ This Excel project was created as part of my role as a Junior Data Analyst for a
 
 - `Cleaned Data and Visualizations.xlsx` – Cleaned and formatted education dataset
 - `Dashboard.xlsx` – Final Excel dashboard with KPIs, charts, and slicers
-- Dashboard and cleaned data screenshots
+
 
 ---
 
@@ -58,9 +58,10 @@ The dashboard includes:
 
 ## 💡 Key Insights
 
-- Some regions like Sub-Saharan Africa have low literacy and low internet access.
-- Higher GDP per capita often links to better education indicators.
-- Large populations still fall behind in education, showing the need for focused support.
+- Literacy rates are not the same in all regions.
+- Internet access and education do not always go together.
+- Some regions are improving slowly in education, while others are doing well.
+
 
 ---
 
